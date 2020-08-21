@@ -40,3 +40,4 @@ URLs to have access to content in hands
 •	https://unstats-undesa.opendata.arcgis.com/search?groupIds=a5552356ddd04e6fb05905bf931e9e54
 
 •	Detecting Ships in Satellite Imagery: https://medium.com/dataseries/detecting-ships-in-satellite-imagery-7f0ca04e7964
+•	https://medium.com/dataseries/satellite-imagery-analysis-with-python-a06eea5465ea
