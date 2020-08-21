@@ -38,3 +38,5 @@ URLs to have access to content in hands
 •	https://issafrica.org/iss-today/east-african-human-trafficking-rings-expand-their-operations
 
 •	https://unstats-undesa.opendata.arcgis.com/search?groupIds=a5552356ddd04e6fb05905bf931e9e54
+
+•	Detecting Ships in Satellite Imagery: https://medium.com/dataseries/detecting-ships-in-satellite-imagery-7f0ca04e7964
