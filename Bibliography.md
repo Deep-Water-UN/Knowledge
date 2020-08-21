@@ -41,3 +41,5 @@ URLs to have access to content in hands
 
 •	Detecting Ships in Satellite Imagery: https://medium.com/dataseries/detecting-ships-in-satellite-imagery-7f0ca04e7964
 •	https://medium.com/dataseries/satellite-imagery-analysis-with-python-a06eea5465ea
+
+•	https://www.theguardian.com/environment/2008/feb/13/climatechange.pollution
