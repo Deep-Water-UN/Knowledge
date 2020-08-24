@@ -43,3 +43,5 @@ URLs to have access to content in hands
 •	https://medium.com/dataseries/satellite-imagery-analysis-with-python-a06eea5465ea
 
 •	https://www.theguardian.com/environment/2008/feb/13/climatechange.pollution
+
+•	https://tribunadejundiai.com.br/mais/meio-ambiente/seis-orcas-e-tres-jubartes-baleias-dao-show-no-mar-de-ilhabela/
