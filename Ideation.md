@@ -21,3 +21,13 @@
 •	Feature learning, anomaly detection – unsupervised algorithms
 •	Clustering (find patterns in data, categories)
 •	Corse Score vs. Corsex
+
+
+
+
+# 4 scores, 1 decision
+- Forms with all votes
+https://docs.google.com/forms/d/1ypih3koq3WmzRNablZ0J5GMUaBnM6wVLbWNvJl4ahjs/edit
+
+- Google Sheets with vote details
+https://docs.google.com/spreadsheets/d/1SPqyZpJN0g3HO4KYCc13fPIn3wwbFUP_AHqvB8DQGtk/edit#gid=1625990629
