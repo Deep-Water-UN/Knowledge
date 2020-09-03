@@ -45,3 +45,5 @@ URLs to have access to content in hands
 •	https://www.theguardian.com/environment/2008/feb/13/climatechange.pollution
 
 •	https://tribunadejundiai.com.br/mais/meio-ambiente/seis-orcas-e-tres-jubartes-baleias-dao-show-no-mar-de-ilhabela/
+
+•	https://theicct.org/sites/default/files/publications/Global-shipping-GHG-emissions-2013-2015_ICCT-Report_17102017_vF.pdf
