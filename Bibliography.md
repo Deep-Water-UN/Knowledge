@@ -47,3 +47,7 @@ URLs to have access to content in hands
 •	https://tribunadejundiai.com.br/mais/meio-ambiente/seis-orcas-e-tres-jubartes-baleias-dao-show-no-mar-de-ilhabela/
 
 •	https://theicct.org/sites/default/files/publications/Global-shipping-GHG-emissions-2013-2015_ICCT-Report_17102017_vF.pdf
+
+•	https://g1.globo.com/sp/santos-regiao/porto-mar/noticia/2019/12/16/navios-esperam-10-dias-para-atracar-em-santos-e-prejuizo-ultrapassa-us-10-milhoes.ghtml
+
+•	http://www.portodesantos.com.br/outros-links/porto-hoje/atracacoes-programadas/
